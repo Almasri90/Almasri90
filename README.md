@@ -10,10 +10,9 @@
 
 - 😄 **Pronouns**: He/Him
 
-- ⚡ **Fun fact**: I helped build a resilient internet network during the war in Syria, connecting communities over an 80 km distance in a conflict zone. It was one of my proudest achievements!
+- ⚡ **Fun fact**: I helped design and implement a resilient large-scale network that spanned over 80 km, connecting communities in challenging environments. It was one of my proudest achievements!
 
 <!---
 Almasri90/Almasri90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
